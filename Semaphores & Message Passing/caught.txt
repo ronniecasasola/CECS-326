@@ -1,0 +1,10 @@
+Pellet was eaten pid 460, position 4
+Pellet was not eaten pid 461, position 6
+Pellet was not eaten pid 459, position 4
+Pellet was not eaten pid 458, position 1
+Pellet was eaten pid 457, position 2
+Pellet was eaten pid 462, position 3
+Pellet was not eaten pid 463, position 5
+Pellet was not eaten pid 464, position 5
+Pellet was not eaten pid 465, position 9
+Pellet was not eaten pid 466, position 5
